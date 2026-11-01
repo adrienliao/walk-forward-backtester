@@ -1,6 +1,6 @@
 # btlab: walk-forward backtesting that tries hard not to fool itself
 
-[![tests](https://github.com/adrienliao/backtest/actions/workflows/tests.yml/badge.svg)](https://github.com/adrienliao/backtest/actions/workflows/tests.yml)
+[![tests](https://github.com/adrienliao/walk-forward-backtester/actions/workflows/tests.yml/badge.svg)](https://github.com/adrienliao/walk-forward-backtester/actions/workflows/tests.yml)
 ![python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
